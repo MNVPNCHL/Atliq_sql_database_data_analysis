@@ -1,10 +1,3 @@
--- month
--- product name
--- variant
--- sold quatity
--- gross price per item
--- gross price total
-
 # Complete report of 70002017 of fiscal year 2021 
 select 
 	s.date,s.product_code,
