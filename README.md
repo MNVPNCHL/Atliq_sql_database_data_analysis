@@ -1,5 +1,5 @@
 # Atliq_sql_database_data_analysis
-
+```
 𝗨𝗻𝗹𝗼𝗰𝗸𝗲𝗱 𝘁𝗵𝗲 𝗽𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗤𝗟 with Codebasics !
 💪 Want to know how I can help you turn data into valuable insights? In addition to mastering the 𝗯𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗦𝗤𝗟 and 𝗝𝗼𝗶𝗻𝘀. I've acquired an array of incredible skills. Let's explore how I can turn data into valuable insights
 ✅ Subqueries, CTEs, Views, Temporary Tables: Explored advanced techniques to write complex queries using subqueries, Common Table Expressions (CTEs), and created and utilized views and temporary tables for efficient data handling.
